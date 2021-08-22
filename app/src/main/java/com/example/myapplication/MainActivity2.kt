@@ -19,8 +19,7 @@ class MainActivity2 : AppCompatActivity() {
         textView7.text=body
         textView9.text=id.toString()
         Log.i("hello","this is $b")
-//youohh
-//ddd
+
 
 
     }
