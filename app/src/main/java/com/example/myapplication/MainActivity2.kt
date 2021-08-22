@@ -20,7 +20,7 @@ class MainActivity2 : AppCompatActivity() {
         textView9.text=id.toString()
         Log.i("hello","this is $b")
 //youohh
-        //kaushik
+
 
 
     }
